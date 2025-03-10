@@ -8,6 +8,6 @@ public class ex {
     }
     public static int maximum(int x, int y){
         if(x > y) return x;
-        return y;zz
+        return y;
     }
 }
